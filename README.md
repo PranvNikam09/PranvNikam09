@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav Nikam</h1 >
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="left">Glad to see you here!</h3>
 <img align= "right" alt="coding" width ="400" src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav9999&label=Profile%20views&color=0e75b6&style=flat" alt="pranav9999" /> </p>
-
+<h4 allign="left">A passoniate Full-Stack web developer</h4>
 - 🔭 I’m currently working on **my custom van**
 
 - 🌱 I’m currently learning **React, Typescript.**
