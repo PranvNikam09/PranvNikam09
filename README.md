@@ -4,7 +4,7 @@
 
 <h4 align="left">An enthusiastis learner  intersted in exploring thr ever-evolving It industry,I am eger to take new challenges and opportunities.
   With a focus on developement and a strong analytical minset.
-  
+  <img align= "right" alt="coding" width ="400" src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav9999&label=Profile%20views&color=0e75b6&style=flat" alt="pranav9999" /> </p>
   <h3>Talking about Me</h3>
   
