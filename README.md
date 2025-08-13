@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pranav.nikam.1426/)
 
 ### Glad to see you here! &nbsp;
-A passionate full-stack web developer.  
+A passionate full-stack web developer.   
 
 An enthusiastic learner interested in exploring the ever-evolving IT industry, I am eager to take on new challenges and opportunities. With a focus on development and a strong analytical mindset.
 
