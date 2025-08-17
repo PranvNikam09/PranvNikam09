@@ -46,4 +46,4 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulsingh27&" alt="Pranv9999" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200em" align="center" src="https://github-profile-trophy.vercel.app/?username=Pranv9999" alt="Pranv9999" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200em" align="center" src="https://github-profile-trophy.vercel.app/?username=Pranv9999" alt="Pranv9999" /></a></p> 
